@@ -1,0 +1,12 @@
+D:\Veri_Yapilari\DataStructures\Array\bin\Debug\net6.0\Array.deps.json
+D:\Veri_Yapilari\DataStructures\Array\bin\Debug\net6.0\Array.dll
+D:\Veri_Yapilari\DataStructures\Array\bin\Debug\net6.0\Array.pdb
+D:\Veri_Yapilari\DataStructures\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+D:\Veri_Yapilari\DataStructures\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Veri_Yapilari\DataStructures\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+D:\Veri_Yapilari\DataStructures\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+D:\Veri_Yapilari\DataStructures\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+D:\Veri_Yapilari\DataStructures\Array\obj\Debug\net6.0\Array.dll
+D:\Veri_Yapilari\DataStructures\Array\obj\Debug\net6.0\refint\Array.dll
+D:\Veri_Yapilari\DataStructures\Array\obj\Debug\net6.0\Array.pdb
+D:\Veri_Yapilari\DataStructures\Array\obj\Debug\net6.0\ref\Array.dll
